@@ -7,14 +7,14 @@ const options = {
 	headers: {
 		'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8',
 		'Accept': 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
-		'Referer': 'https://m.10010.com/queen/tencent/fill.html?product=0&channel=2',
+		'Referer': 'https://m.10010.com/queen/familycard/fill.html?product=0',
 	},
 	qs: {
 		'callback': 'jsonp_queryMoreNums',
-		'provinceCode': 36,
-		'cityCode': 360,
+		'provinceCode': 31,
+		'cityCode': 310,
 		'monthFeeLimit': 0,
-		'groupKey': 60236866,
+		'groupKey': 34236498,
 		'searchCategory': 3,
 		'net': '01',
 		'amounts': 200,
